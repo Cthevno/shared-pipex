@@ -1,0 +1,7 @@
+/usr/bin/./myls
+/home/usr/bin/./myls
+/sbin/./myls
+"./myls"
+
+ls
+./myls
